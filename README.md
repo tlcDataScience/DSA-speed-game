@@ -1,4 +1,4 @@
-# DSA-SpeedGame
+# DSA-speed-game
 Template for "SpeedGame" projects for DSA students. Copy below, replace the name of the game accordingly (e.g., SpeedGame) and add screenshots of the student's game into the student's project README file 👇🏻
 
 # Welcome to SpeedGame!
