@@ -1,0 +1,22 @@
+[
+    {
+      "url": "apple.png",
+      "question": "Is this an apple?",
+      "answer": true
+    },
+    {
+      "url": "avocado.png",
+      "question": "Is this an apple?",
+      "answer": false
+    },
+    {
+      "url": "banana.png",
+      "question": "Is this an banana?",
+      "answer": true
+    },
+    {
+      "url": "cherry.png",
+      "question": "Is this an banana?",
+      "answer": false
+    }
+]
